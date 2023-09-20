@@ -2,7 +2,9 @@
 - 👀 I’m interested in **[#R](https://github.com/topics/r)**, books, art, linguistics, and history.
 - 💪 I'm good with anything involving **MS Excel**; decent with **HTML**, **CSS**, **SQL**, and **R**; and I have some basic knowledge of **Javascript** and **SPARQL**.
 - 🌱 Currently I'm focused on improving my knowledge of **[#R](https://github.com/topics/r)**.
+<!---
 - 💞️ *I’m looking to collaborate on anything involving **[#R](https://github.com/topics/r)** and library usage statistics from **OpenAthens**, **ALMA/Primo**, or **LibApps**.*
+--->
 - 📫 Reach me via the [🐦](https://www.twitter.com/) app at [@thoughthollow](https://twitter.com/thoughthollow) or on Mastodon [🐘](https://www.joinmastodon.org/) at [@thoughthollow@fosstodon.org](https://fosstodon.org/@thoughthollow).
 
 <!---
