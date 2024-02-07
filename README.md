@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andy Tait & I'm a librarian working in the non-profit sector.
+- 👋 Hi, I’m Andy Tait & I'm a statistician (former librarian) working in the non-profit sector.
 - 👀 I’m interested in **[#R](https://github.com/topics/r)**, books, art, linguistics, and history.
 - 💪 I'm good with anything involving **MS Excel**; decent with **HTML**, **CSS**, **SQL**, and **R**; and I have some basic knowledge of **Javascript** and **SPARQL**.
 - 🌱 Currently I'm focused on improving my knowledge of **[#R](https://github.com/topics/r)**.
