@@ -5,7 +5,7 @@
 <!---
 - 💞️ *I’m looking to collaborate on anything involving **[#R](https://github.com/topics/r)** and library usage statistics from **OpenAthens**, **ALMA/Primo**, or **LibApps**.*
 --->
-- 📫 Reach me via the [🐦](https://www.twitter.com/) app at [@thoughthollow](https://twitter.com/thoughthollow) or on Mastodon [🐘](https://www.joinmastodon.org/) at [@thoughthollow@fosstodon.org](https://fosstodon.org/@thoughthollow).
+- 📫 Reach me via the [🐦](https://www.twitter.com/) app at [@thoughthollow](https://twitter.com/thoughthollow), on Mastodon [🐘](https://www.joinmastodon.org/) at [@thoughthollow@fosstodon.org](https://fosstodon.org/@thoughthollow), or on Bluesky ([same @](https://bsky.app/profile/thoughthollow.bsky.social)).
 
 <!---
 thoughthollow/thoughthollow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
